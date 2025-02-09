@@ -1,5 +1,3 @@
-# Leilao
+leilao - Foi criado o projeto e o app, banco de dados conectado MySQL.
 
-Foi criado o projeto e o app, banco de dados conectado MySQL.
-
-0.1- Alterado models.py.
+core - Alterado models.py.
